@@ -1,0 +1,19 @@
+\begin{tabular}{lccccc}
+\toprule
+Generator & \multicolumn{5}{c}{Strategy class scored (circular / ordinary backtest)} \\
+\cmidrule(lr){2-6}
+ & full & symmetric & factor & diagonal & pooled \\
+\midrule
+Stationary block bootstrap & 0.587 / 0.587 & 0.589 / 0.589 & 0.613 / 0.613 & 0.575 / 0.575 & 0.696 / 0.696 \\
+VAR(1), bootstrapped residuals & 0.470 / 0.469 & 0.545 / 0.545 & 0.579 / 0.579 & 0.482 / 0.481 & 0.656 / 0.656 \\
+GARCH(1,1)-FHS & -0.010 / -0.010 & -0.002 / -0.002 & -0.015 / -0.017 & 0.002 / 0.003 & 0.011 / 0.010 \\
+Phase randomization & \textbf{1} / 0.990 & \textbf{1} / 0.991 & \textbf{1} / 0.993 & \textbf{1} / 0.991 & \textbf{1} / 0.996 \\
+Multivariate IAAFT & 0.929 / 0.929 & 0.937 / 0.936 & 0.962 / 0.962 & 0.923 / 0.922 & 0.980 / 0.980 \\
+\midrule
+Rung: full & \textbf{1} / 0.992 & \textbf{1} / 0.993 & \textbf{1} / 0.996 & \textbf{1} / 0.993 & \textbf{1} / 0.998 \\
+Rung: symmetric & 0.674 / 0.674 & \textbf{1} / 0.992 & 0.828 / 0.828 & \textbf{1} / 0.991 & \textbf{1} / 0.997 \\
+Rung: factor & 0.603 / 0.604 & 0.666 / 0.666 & \textbf{1} / 0.994 & 0.575 / 0.575 & 0.968 / 0.967 \\
+Rung: diagonal & 0.625 / 0.625 & 0.713 / 0.713 & 0.758 / 0.758 & \textbf{1} / 0.987 & \textbf{1} / 0.996 \\
+Rung: pooled & 0.575 / 0.575 & 0.612 / 0.612 & 0.675 / 0.675 & 0.614 / 0.614 & \textbf{1} / 0.997 \\
+\bottomrule
+\end{tabular}

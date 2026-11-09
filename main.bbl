@@ -1,0 +1,153 @@
+\begin{thebibliography}{23}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Absil et~al.(2008)Absil, Mahony, and Sepulchre]{absil2008}
+P.-A. Absil, Robert Mahony, and Rodolphe Sepulchre.
+\newblock \emph{Optimization Algorithms on Matrix Manifolds}.
+\newblock Princeton University Press, 2008.
+
+\bibitem[Bailey et~al.(2014)Bailey, Borwein, L{\'o}pez~de Prado, and
+  Zhu]{bailey2014}
+David~H. Bailey, Jonathan~M. Borwein, Marcos L{\'o}pez~de Prado, and Qiji~Jim
+  Zhu.
+\newblock Pseudo-mathematics and financial charlatanism: the effects of
+  backtest overfitting on out-of-sample performance.
+\newblock \emph{Notices of the American Mathematical Society}, 61\penalty0
+  (5):\penalty0 458--471, 2014.
+
+\bibitem[Barone-Adesi et~al.(1999)Barone-Adesi, Giannopoulos, and
+  Vosper]{baroneadesi1999}
+Giovanni Barone-Adesi, Kostas Giannopoulos, and Les Vosper.
+\newblock {VaR} without correlations for portfolios of derivative securities.
+\newblock \emph{Journal of Futures Markets}, 19\penalty0 (5):\penalty0
+  583--602, 1999.
+
+\bibitem[Bollerslev(1986)]{bollerslev1986}
+Tim Bollerslev.
+\newblock Generalized autoregressive conditional heteroskedasticity.
+\newblock \emph{Journal of Econometrics}, 31\penalty0 (3):\penalty0 307--327,
+  1986.
+
+\bibitem[Bollerslev(1990)]{bollerslev1990}
+Tim Bollerslev.
+\newblock Modelling the coherence in short-run nominal exchange rates: a
+  multivariate generalized {ARCH} model.
+\newblock \emph{The Review of Economics and Statistics}, 72\penalty0
+  (3):\penalty0 498--505, 1990.
+
+\bibitem[Harvey et~al.(2016)Harvey, Liu, and Zhu]{harvey2016}
+Campbell~R. Harvey, Yan Liu, and Heqing Zhu.
+\newblock ... and the cross-section of expected returns.
+\newblock \emph{The Review of Financial Studies}, 29\penalty0 (1):\penalty0
+  5--68, 2016.
+
+\bibitem[Hosking(1980)]{hosking1980}
+J.~R.~M. Hosking.
+\newblock The multivariate portmanteau statistic.
+\newblock \emph{Journal of the American Statistical Association}, 75\penalty0
+  (371):\penalty0 602--608, 1980.
+
+\bibitem[Jegadeesh and Titman(1993)]{jegadeesh1993}
+Narasimhan Jegadeesh and Sheridan Titman.
+\newblock Returns to buying winners and selling losers: implications for stock
+  market efficiency.
+\newblock \emph{The Journal of Finance}, 48\penalty0 (1):\penalty0 65--91,
+  1993.
+
+\bibitem[Kendall(1938)]{kendall1938}
+M.~G. Kendall.
+\newblock A new measure of rank correlation.
+\newblock \emph{Biometrika}, 30\penalty0 (1/2):\penalty0 81--93, 1938.
+
+\bibitem[K{\"u}nsch(1989)]{kunsch1989}
+Hans~R. K{\"u}nsch.
+\newblock The jackknife and the bootstrap for general stationary observations.
+\newblock \emph{The Annals of Statistics}, 17\penalty0 (3):\penalty0
+  1217--1241, 1989.
+
+\bibitem[Lo and MacKinlay(1990)]{lo1990}
+Andrew~W. Lo and A.~Craig MacKinlay.
+\newblock When are contrarian profits due to stock market overreaction?
+\newblock \emph{The Review of Financial Studies}, 3\penalty0 (2):\penalty0
+  175--205, 1990.
+
+\bibitem[L{\'o}pez~de Prado(2018)]{lopezdeprado2018}
+Marcos L{\'o}pez~de Prado.
+\newblock \emph{Advances in Financial Machine Learning}.
+\newblock Wiley, 2018.
+
+\bibitem[Moreira and Muir(2017)]{moreira2017}
+Alan Moreira and Tyler Muir.
+\newblock Volatility-managed portfolios.
+\newblock \emph{The Journal of Finance}, 72\penalty0 (4):\penalty0 1611--1644,
+  2017.
+
+\bibitem[Moskowitz and Grinblatt(1999)]{moskowitz1999}
+Tobias~J. Moskowitz and Mark Grinblatt.
+\newblock Do industries explain momentum?
+\newblock \emph{The Journal of Finance}, 54\penalty0 (4):\penalty0 1249--1290,
+  1999.
+
+\bibitem[Moskowitz et~al.(2012)Moskowitz, Ooi, and Pedersen]{moskowitz2012}
+Tobias~J. Moskowitz, Yao~Hua Ooi, and Lasse~Heje Pedersen.
+\newblock Time series momentum.
+\newblock \emph{Journal of Financial Economics}, 104\penalty0 (2):\penalty0
+  228--250, 2012.
+
+\bibitem[Nagel(2012)]{nagel2012}
+Stefan Nagel.
+\newblock Evaporating liquidity.
+\newblock \emph{The Review of Financial Studies}, 25\penalty0 (7):\penalty0
+  2005--2039, 2012.
+
+\bibitem[Politis and Romano(1994)]{politis1994}
+Dimitris~N. Politis and Joseph~P. Romano.
+\newblock The stationary bootstrap.
+\newblock \emph{Journal of the American Statistical Association}, 89\penalty0
+  (428):\penalty0 1303--1313, 1994.
+
+\bibitem[Prichard and Theiler(1994)]{prichard1994}
+Dean Prichard and James Theiler.
+\newblock Generating surrogate data for time series with several simultaneously
+  measured variables.
+\newblock \emph{Physical Review Letters}, 73\penalty0 (7):\penalty0 951--954,
+  1994.
+
+\bibitem[Schreiber(1998)]{schreiber1998}
+Thomas Schreiber.
+\newblock Constrained randomization of time series data.
+\newblock \emph{Physical Review Letters}, 80\penalty0 (10):\penalty0
+  2105--2108, 1998.
+
+\bibitem[Schreiber and Schmitz(1996)]{schreiber1996}
+Thomas Schreiber and Andreas Schmitz.
+\newblock Improved surrogate data for nonlinearity tests.
+\newblock \emph{Physical Review Letters}, 77\penalty0 (4):\penalty0 635--638,
+  1996.
+
+\bibitem[Schreiber and Schmitz(2000)]{schreiber2000}
+Thomas Schreiber and Andreas Schmitz.
+\newblock Surrogate time series.
+\newblock \emph{Physica D: Nonlinear Phenomena}, 142\penalty0 (3--4):\penalty0
+  346--382, 2000.
+
+\bibitem[Theiler et~al.(1992)Theiler, Eubank, Longtin, Galdrikian, and
+  Farmer]{theiler1992}
+James Theiler, Stephen Eubank, Andr{\'e} Longtin, Bryan Galdrikian, and
+  J.~Doyne Farmer.
+\newblock Testing for nonlinearity in time series: the method of surrogate
+  data.
+\newblock \emph{Physica D: Nonlinear Phenomena}, 58\penalty0 (1--4):\penalty0
+  77--94, 1992.
+
+\bibitem[Wiese et~al.(2020)Wiese, Knobloch, Korn, and Kretschmer]{wiese2020}
+Magnus Wiese, Robert Knobloch, Ralf Korn, and Peter Kretschmer.
+\newblock Quant {GANs}: deep generation of financial time series.
+\newblock \emph{Quantitative Finance}, 20\penalty0 (9):\penalty0 1419--1440,
+  2020.
+
+\end{thebibliography}

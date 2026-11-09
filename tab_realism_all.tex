@@ -1,0 +1,19 @@
+\begin{tabular}{lrrrrrr}
+\toprule
+Generator & Kurtosis & ACF $|r|$ & Max corr.\ error & Path corr. & Vol.\ ratio & $\tau$ static Sharpe \\
+\midrule
+Original data & 12.7 & 0.25 & -- & -- & 1.00 & 1 \\
+\midrule
+Stationary block bootstrap & 12.8 & 0.23 & 0.100 & -0.003 & 1.02 & 0.797 \\
+VAR(1), bootstrapped residuals & 8.7 & 0.01 & 0.070 & +0.000 & 0.99 & 0.800 \\
+GARCH(1,1)-FHS & 18.3 & 0.20 & 0.386 & -0.002 & 1.03 & 0.691 \\
+Phase randomization & 0.0 & 0.00 & 0.000 & -0.001 & 1.00 & 1.000 \\
+Multivariate IAAFT & 12.7 & 0.01 & 0.122 & -0.005 & 1.00 & 0.988 \\
+\midrule
+Rung: full & 6.2 & 0.26 & 0.000 & +0.001 & 1.00 & 1.000 \\
+Rung: symmetric & 5.9 & 0.26 & 0.000 & -0.005 & 1.00 & 1.000 \\
+Rung: factor & 12.3 & 0.26 & 0.000 & -0.003 & 1.00 & 1.000 \\
+Rung: diagonal & 11.5 & 0.28 & 0.000 & -0.001 & 1.00 & 1.000 \\
+Rung: pooled & 12.4 & 0.26 & 0.000 & -0.002 & 1.00 & 1.000 \\
+\bottomrule
+\end{tabular}
